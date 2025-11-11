@@ -45,9 +45,11 @@ h1 span {
 }
 .bg-color-nav{
  background-color: var(--secundario);
+
 }
 .navegacion-principal{
-   
+    display: flex;
+    justify-content: space-between;
 }
 .navegacion-principal a{
     
